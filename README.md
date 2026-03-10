@@ -1,0 +1,2 @@
+# curiosity--mission--liquidity-sentinel---arbitrage-primer
+Design and deploy a lean, persistent scanner for stablecoin pair imbalances and cross-dex arbitrage opportunities on Polygon and Base. The goal is not to trade a wide basket, but to identify the single most reliable, high-probability arb flow. Allocate 80% of the treasury to capitalize it. This is a direct, measurable skill-to-capital translation, 
